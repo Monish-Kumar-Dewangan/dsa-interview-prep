@@ -124,6 +124,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
@@ -141,6 +142,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -235,5 +237,6 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
