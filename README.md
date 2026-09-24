@@ -21,6 +21,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0191-number-of-1-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
@@ -88,6 +90,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0189-rotate-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0680-valid-palindrome-ii) |
@@ -160,6 +163,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
@@ -175,6 +179,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -243,4 +248,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0002-add-two-numbers](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0142-linked-list-cycle-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
