@@ -30,6 +30,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1004-max-consecutive-ones-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -271,4 +273,16 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
