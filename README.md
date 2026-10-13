@@ -27,6 +27,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0560-subarray-sum-equals-k](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1004-max-consecutive-ones-iii) |
@@ -188,6 +189,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0739-daily-temperatures](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -285,4 +287,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
