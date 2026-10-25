@@ -20,6 +20,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
@@ -127,6 +128,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0018-4sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -291,4 +293,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
