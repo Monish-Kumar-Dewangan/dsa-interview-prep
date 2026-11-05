@@ -119,6 +119,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 ## Counting
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -274,6 +276,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -281,6 +284,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0274-h-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0274-h-index) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
