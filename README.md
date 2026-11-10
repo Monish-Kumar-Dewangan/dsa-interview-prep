@@ -267,6 +267,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -276,6 +277,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -285,6 +287,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -313,4 +316,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
