@@ -189,6 +189,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -265,6 +266,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -273,6 +275,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
@@ -281,6 +284,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
