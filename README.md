@@ -272,6 +272,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -284,6 +285,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -296,6 +298,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0110-balanced-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
@@ -327,6 +330,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0100-same-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0226-invert-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
